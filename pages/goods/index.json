@@ -1,0 +1,10 @@
+{
+  "usingComponents": {
+    "Serchinput":"../../components/Serchinput/Serchinput",
+    "Tabs":"../../components/tabs/tabs"
+  },
+  "onReachBottomDistance":50,
+  "navigationBarTitleText": "商品列表",
+  "enablePullDownRefresh":true,
+  "backgroundTextStyle":"dark"
+}

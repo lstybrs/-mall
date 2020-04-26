@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "Serchinput":"../../components/Serchinput/Serchinput"
+  },
+  "navigationBarTitleText": "首页"
+
+}
